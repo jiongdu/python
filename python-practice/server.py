@@ -13,7 +13,7 @@ name=[]				###save username
 passwd=[]			###save passwd
 authlist=[]			###save user authenticated
 
-errorreport=0
+errorreport=0		###save error report to client
 
 ### multi-process to handle socket connection
 def server(host, port):
