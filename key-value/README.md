@@ -18,6 +18,3 @@ b. name 是一个key,输入此命令后,如果这个key已持有值,则返回这
 ##### python3 client.py CMD [PARAMETERS ... ]
 1. 默认连接 localhost:5678 。可以通过--host和--port改变默认行为。   
 2. 将用户输入的各种命令发送给服务器，并且显示服务器返回的结果。
-
-#### TODO
-改进网络I/O模型
