@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 __author__ = 'dujiong'
 
 from scrapy.cmdline import execute
